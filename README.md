@@ -26,7 +26,7 @@
     CELERY=redis://redis:6379
 
 ***
-### Запуск Docker проекта
+### Запуск Docker проекта.
     git cline https://github.com/avtotropa/CourseWork8_docker.git
     cd CourseWorkModule8
     vi .env
