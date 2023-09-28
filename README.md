@@ -28,7 +28,7 @@
 ***
 ### Запуск Docker проекта.
     git cline https://github.com/avtotropa/CourseWork8_docker.git
-    cd CourseWorkModule8
+    cd CourseWork8_docker
     vi .env
     docker-compose build
     docker-compose up
